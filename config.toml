@@ -41,6 +41,9 @@ paginate = 3
   # The default is true
   noClasses = false
 
+[module]
+  [[module.imports]]
+    path = "https://github.com/rmaguiar/hugo-theme-color-your-world"
 
 
 [params]
