@@ -1,5 +1,5 @@
 ---
-title       : "Pengenalan HTML"
+title       : "Pengenalan HTML (Pertemuan 1)"
 date            : 2024-05-07
 description : "Menurut (Kustiyahningsih & Anamisa, 2011) HTML (Hypertext Markup
 Languange) adalah standar bahasa yang digunakan untuk menampilkan dokumen
@@ -119,8 +119,8 @@ Contoh script HTML menggunakan Tag :
 Hasilnya :
 {{< img "html4.png" "Contoh penggunaan script HTML dengan tag." border >}}
 
-
-
 ---
-Source:
-[Sumber Buku](https://repository.nusamandiri.ac.id/index.php/repo/viewitem/11046)
+
+Coba Kode Diatas Melalu Codepen :
+[Buka Codepan](https://codepen.io/pen/)
+
