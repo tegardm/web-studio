@@ -40,7 +40,10 @@ paginate = 3
   # To make use of the custom Chroma, this should be false
   # The default is true
   noClasses = false
-
+  
+[module.hugoVersion]
+  extended = true
+  min = "0.73.0"
 
 
 [params]
@@ -279,10 +282,6 @@ paginate = 3
         weight = 2
         url = "posts/"
       
-      [[languages.en.menu.main]]
-        name = "Contact"
-        weight = 3
-        url = "contact/"
 
     [languages.pt]
     
