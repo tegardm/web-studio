@@ -282,10 +282,6 @@ paginate = 3
         weight = 2
         url = "posts/"
       
-      [[languages.en.menu.main]]
-        name = "Contact"
-        weight = 3
-        url = "contact/"
 
     [languages.pt]
     
