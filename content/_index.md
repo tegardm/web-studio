@@ -7,5 +7,5 @@ Web Studio adalah sebuah platform pembelajaran interaktif yang dirancang khusus 
 
 Silahkan check halaman [posts](/posts) untuk melihat beragam konten pembelajaran yang ada.
 ***
-Sumber Konten Media Pembelajaran :
+Sumber Konten  Pembelajaran :
 [Buku](https://repository.nusamandiri.ac.id/index.php/repo/viewitem/11046)
