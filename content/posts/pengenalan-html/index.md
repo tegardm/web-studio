@@ -121,6 +121,6 @@ Hasilnya :
 
 ---
 
-Coba Kode Diatas Melalu Codepen  :
+Coba Kode Diatas Melalu Codepen :
 [Buka Codepan](https://codepen.io/pen/)
 

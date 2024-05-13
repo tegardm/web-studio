@@ -9,7 +9,7 @@ tags        : [ html, "tabel","form","input" ]
 toc         : true
 ---
 
-## Pengenalan Tabel HTML
+## Pengenalan Tabel di HTML
 
 Dalam pembuatan halaman web, tabel adalah salah satu elemen yang sangat penting. Tabel digunakan untuk menampilkan data secara terstruktur dan terorganisir. Dalam HTML, tabel dibuat menggunakan tag-tag tertentu yang memungkinkan penataan data dalam bentuk baris dan kolom.
 
