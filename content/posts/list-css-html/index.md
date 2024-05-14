@@ -5,6 +5,9 @@ description : "Materi ini akan membahas tentang penggunaan list dalam HTML, term
 tags        : [html, list, css, style, ordinal]
 toc         : true
 ---
+## Tujuan 
+Siswa mampu menguasai konsep dasar dan struktur pada HTML serta mampu mengimplementasikannya dalam pembuatan sebuah halaman web. Mereka juga dapat secara efektif mempresentasikan hasil belajar HTML mereka dengan jelas dan meyakinkan, menunjukkan pemahaman yang baik tentang cara menggunakan bahasa pemrograman tersebut dalam konteks praktis pembuatan situs web.
+
 
 ## Penggunaan List dalam HTML
 

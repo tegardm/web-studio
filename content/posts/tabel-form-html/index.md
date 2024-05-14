@@ -9,6 +9,9 @@ tags        : [ html, "tabel","form","input" ]
 toc         : true
 ---
 
+## Tujuan 
+Siswa mampu menguasai konsep dasar dan struktur pada HTML serta mampu mengimplementasikannya dalam pembuatan sebuah halaman web. Mereka juga dapat secara efektif mempresentasikan hasil belajar HTML mereka dengan jelas dan meyakinkan, menunjukkan pemahaman yang baik tentang cara menggunakan bahasa pemrograman tersebut dalam konteks praktis pembuatan situs web.
+
 ## Pengenalan Tabel di HTML
 
 Dalam pembuatan halaman web, tabel adalah salah satu elemen yang sangat penting. Tabel digunakan untuk menampilkan data secara terstruktur dan terorganisir. Dalam HTML, tabel dibuat menggunakan tag-tag tertentu yang memungkinkan penataan data dalam bentuk baris dan kolom.
